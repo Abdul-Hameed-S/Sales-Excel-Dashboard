@@ -52,16 +52,6 @@ The workbook organizes the raw dataset into six core analytical views:
 
 ---
 
-## 📂 Repository Structure
-```text
-├── data/
-│   └── 2025_sales_transactions.csv       # Raw 100-row transaction dataset
-├── assets/
-│   └── dashboard-preview.png             # Screenshot of the final dashboard
-├── 2025_Sales_Financial_Dashboard.xlsx   # Interactive Excel workbook & PivotTables
-└── README.md                             # Project documentation
-```
-
 ## 🚀 How to Use
 1. Download `2025_Sales_Financial_Dashboard.xlsx` from this repository.
 2. Open the file in **Microsoft Excel** (Excel 2016 or later recommended).
