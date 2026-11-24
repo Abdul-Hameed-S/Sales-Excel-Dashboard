@@ -4,8 +4,7 @@ Interactive Excel sales dashboard tracking regional revenue, top-performing prod
 
 An interactive Microsoft Excel dashboard built to analyze **100 B2B and retail transactions** across India in 2025. The workbook transforms raw transaction logs into executive KPIs, tracking city-level revenue, product profitability, category volume, and accounts receivable health.
 
-![Dashboard Preview](assets/dashboard-preview.png)
-*(Note: Add a screenshot of your Excel dashboard to the `assets/` folder to display it here)*
+![Dashboard Preview](Dashboard.png)
 
 ---
 
