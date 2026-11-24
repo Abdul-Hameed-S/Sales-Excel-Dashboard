@@ -8,6 +8,13 @@ An interactive Microsoft Excel dashboard built to analyze **100 B2B and retail t
 
 ---
 
+### 📋 Raw Data Sheet Preview
+![Raw Data Sheet Preview](1.png)
+![Raw Data Sheet Preview](2.png)
+![Raw Data Sheet Preview](3.png)
+
+---
+
 ## 🎯 Project Overview
 This project provides an end-to-end financial and operational overview of 2025 sales across four regions (**North, South, East, West**) and three customer segments (**Retail, Corporate, Government, Wholesale**). Using dynamic PivotTables and slicers, stakeholders can monitor cash collection bottlenecks alongside top-performing product lines.
 
