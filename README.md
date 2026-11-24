@@ -53,7 +53,7 @@ The workbook organizes the raw dataset into six core analytical views:
 ---
 
 ## 🚀 How to Use
-1. Download `2025_Sales_Financial_Dashboard.xlsx` from this repository.
+1. Download `sales_and_finance_visualization_dataset.xlsx` from this repository.
 2. Open the file in **Microsoft Excel** (Excel 2016 or later recommended).
 3. Use the interactive **Slicers** on the dashboard tab to filter metrics by Region, Quarter, Customer Segment, or Payment Status.
 4. To update the dashboard after adding new rows to the data table, navigate to **Data > Refresh All** in the Excel ribbon.
